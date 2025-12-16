@@ -11,7 +11,7 @@ The full methodology, architecture, experiments, and analysis are documented in 
 
 📘 **Multimodal Latent Diffusion Framework for Text-to-Image and Image-to-Image Embroidery Design Generation**
 
-📄 File: `gen project.pdf`
+📄 File: `genproject.pdf`
 
 ---
 
@@ -19,7 +19,7 @@ The full methodology, architecture, experiments, and analysis are documented in 
 
 All files are stored directly in the `main` branch root:
 
-- `gen project.pdf` – Full research paper  
+- `genproject.pdf` – Full research paper  
 - `gen-project-part-1.ipynb` – Dataset preparation, captioning, and VAE training  
 - `gen-project-part-2.ipynb` – Latent diffusion training and generation  
 - `embroidery_dataset.zip` – Cultural embroidery image dataset  
