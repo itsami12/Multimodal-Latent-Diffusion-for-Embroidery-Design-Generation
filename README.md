@@ -25,7 +25,7 @@ All files are stored directly in the `main` branch root:
 - `embroidery_dataset.zip` – Cultural embroidery image dataset  
 - `caption_dataset.zip` – Auto-generated caption dataset  
 - `model.zip` – Trained model checkpoints  
-- `architecture.png` – Complete architecture diagram  
+- `arcitecture.png` – Complete architecture diagram  
 - `pretrain_epoch_50.png` – VAE pretraining reconstruction results  
 - `text2img_samples.png` – Text-to-image generation samples  
 - `ldm_acc.png` – Latent diffusion training accuracy  
@@ -39,7 +39,7 @@ The proposed framework integrates **Texture-VAE**, **Vision–Language modeling*
 
 ### Overall Architecture
 
-![Architecture](architecture.png)
+![Architecture](arcitecture.png)
 
 The architecture consists of three main training phases:
 
