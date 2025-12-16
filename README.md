@@ -11,7 +11,7 @@ The full methodology, architecture, experiments, and analysis are documented in 
 
 📘 **Multimodal Latent Diffusion Framework for Text-to-Image and Image-to-Image Embroidery Design Generation**
 
-📄 File: `gen-project.pdf`
+📄 File: `gen project.pdf`
 
 ---
 
